@@ -80,5 +80,10 @@
   </a>
 </p>
 
+<h1 align="center">~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~</h1>
+
+<div align="center">
+  <img src="https://github.com/vouzmevoyez/vouzmevoyez/blob/main/kanata.gif"/>
+</div>
 
 
