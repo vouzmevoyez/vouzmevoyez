@@ -20,7 +20,7 @@
       <p><strong>Working:</strong> Too lazy for work</p>
     </td>
     <td style="width: 50%; vertical-align: top; text-align: center;">
-      <img src="https://github.com/vouzmevoyez/vouzmevoyez/blob/main/IMG_3130.gif" width="300"/>
+      <img src="https://github.com/vouzmevoyez/vouzmevoyez/blob/main/suisei.gif" width="300"/>
     </td>
   </tr>
 </table>
